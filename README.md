@@ -52,7 +52,7 @@ npx hardhat run scripts/sendNFT.js --network mumbai
 
 ## Author
 
-[Rishabh SHukla](https://github.com/Rishabh-198)
+Sritam Biswal
 
 ## License
 
