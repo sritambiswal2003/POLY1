@@ -56,8 +56,8 @@ This project was created by Sritam Biswal.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to make a copy of the project for your own use.
+This project is licensed under the [MIT License](LICENSE). 
+
 
 ---
 
-This regenerated version keeps the original content and structure while improving the readability and organization of the information.
